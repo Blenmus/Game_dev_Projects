@@ -9,26 +9,11 @@ My primary goals in this repository include:
 - **Skill Enhancement:** Improving my proficiency in C# and JavaScript.
 - **Project Structure:** Experimenting with well-organized project structures.
 - **Documentation:** Developing a habit of writing clear and concise documentation.
+- **Code Efficiency** Writing clear and concise code
 
 ## Learning Resources
 
-- **Books:** A list of recommended books for game development in C# and JavaScript.
-- **Courses:** Online courses and tutorials that I find helpful.
-- **Blogs/Articles:** Regularly updated with insightful articles related to game development.
-
-## Roadmap
-
-### Short-term Goals
-
-1. **Setup:** Establish a robust development environment with preferred IDEs and tools.
-2. **Basic Game Concepts:** Understand the fundamentals of game development.
-3. **Simple Prototypes:** Create small prototypes to practice concepts.
-
-### Long-term Goals
-
-1. **Complete Game Projects:** Start and finish comprehensive game projects.
-2. **Advanced Topics:** Dive into advanced topics like game physics and AI.
-3. **Community Engagement:** Share knowledge and engage with the game development community.
+- **Will be following multiple project based game dev tutorials online** 
 
 ## Join the Journey
 
@@ -36,9 +21,9 @@ As I embark on this game development learning journey, I invite you to join me! 
 
 ## Connect With Me
 
-- **LinkedIn:** [Your LinkedIn Profile](link-to-linkedin)
-- **Twitter:** [Your Twitter Profile](link-to-twitter)
-- **Portfolio Website:** [Your Portfolio Website](link-to-portfolio)
+- **LinkedIn:** 
+- **Twitter:** 
+- **Portfolio Website:** [Website](https://tristanfisherportfoliowebdev.netlify.app/?fbclid=IwAR3ShsjSyTlxR3xNqKlqmCpJdaRpViqRcoBDtqbQFtTyPgii_Mx7k021gWE)
 
 ---
 
